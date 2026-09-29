@@ -7,7 +7,7 @@ A lightweight, automated log analysis and heuristic detection engine designed fo
 [![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Charts-blue)](https://plotly.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> 🚀 **Live Demo:** Access the interactive cloud app at [Deploy Link Pending]
+> 🚀 **Live Demo:** Access the interactive cloud app at (https://ianyosho-log-analyzer.streamlit.app)
 
 ---
 
